@@ -4,8 +4,3 @@
 ![](https://komarev.com/ghpvc/?username=Moloch7052&label=Views&color=lightgrey)
 
 *Hey, I'm Moloch. Currently learning to create basic FiveM resources whilst being a FiveM photographer on the side. Be sure to stick around to see what I'm up to*
-
-<b>Feel free to show some love by dropping a follow or starring some repositories!</b>
-
-
-
